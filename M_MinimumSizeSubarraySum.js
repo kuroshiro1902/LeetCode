@@ -1,6 +1,6 @@
 /**
  * https://leetcode.com/problems/minimum-size-subarray-sum/
- * O(nlogn)
+ * O(n^2) -> O(n)
  *
  * @param {number} target
  * @param {number[]} nums
